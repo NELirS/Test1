@@ -334,7 +334,7 @@
 
 
     <script>
-        const APP_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbzqWihxr3ve-KkNXdWUSLuw1vf2sxXFlAf81IuPYnHbys422nzQLztfe5XmD_Sj-QA2DQ/exec](https://script.google.com/macros/s/AKfycbzqWihxr3ve-KkNXdWUSLuw1vf2sxXFlAf81IuPYnHbys422nzQLztfe5XmD_Sj-QA2DQ/exec';
+        const APP_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbzqWihxr3ve-KkNXdWUSLuw1vf2sxXFlAf81IuPYnHbys422nzQLztfe5XmD_Sj-QA2DQ/exec';
         const LEADERBOARD_KEY = '🏆 Leaderboard รวม';
         const CLASS_LEADERBOARD_KEY = '🏫 อันดับห้องเรียน';
         
